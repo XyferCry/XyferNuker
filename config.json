@@ -1,0 +1,7 @@
+{
+    "color": "turquoise",
+    "show_list_on_startup": false,
+    "ask_for_wipe_on_startup": false,
+    "bot_token": "",
+    "wipe_on_join": true
+}
